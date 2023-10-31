@@ -1,0 +1,537 @@
+UNITED ST
+ATES DISTRICT COURT  
+SOUTHERN DISTRICT OF NEW YORK  
+___________________________________________ 
+) 
+SECURITIES AND  ) 
+EXCHANGE COMMISSION, ) 
+)  
+Plaintiff,  )  Civil Action No. 22-cv-10501 
+)  
+v.     
+ ) 
+) JURY TRIAL DEMANDED  
+SAMUEL BANKMAN- FRIED ,   ) 
+) ) 
+Defendant.    ) 
+___________________________________________ ) 
+COMPLAI
+NT 
+Plaintiff Securities and Exchange Commission (the “Commission”), for its complaint 
+against Defendant , Samuel Bankman -Fried  (“Bankman -Fried ”), alleges as follows: 
+SUMMARY  
+1. From at least May 2019 through November 2022, Bankman -Fried engaged in a
+scheme to defraud equity investors in FTX Trading Ltd. (“FTX”), the crypto asset trading 
+platform of which he was CEO and co- founder , at the same time that he was  also defrauding the 
+platform’s customers.   Bankman -Fried raised more than $1.8 billion from investors, including 
+U.S. investors, who bought an equity stake in FTX believing that FTX had appropriate controls and risk management measures.  Unbeknownst to those investors (and to FTX’s trading 
+customers ), Bankman -Fried was orchestrating a massive, years -long fraud, diverting billions of 
+dollars of the trading platform’ s customer funds for his own personal benefit and to help grow 
+his crypto empire. 
+2. Throughout this period, Bankman -Fried portrayed himself as a responsible leader
+of the crypto  community.  He touted the importance of regulation and accountability.  He told the Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 1 of 282 public, including investors, that FTX was both innovative and responsible.  Customers around 
+the world  believed his lies, and sent billions of dollars to FTX, believing their assets were secure 
+on the FTX  trading platform.  But from the start, Bankman -Fried improperly diverted customer 
+assets to his privately -held crypto hedge fund, Alameda Research LLC (“Alameda”), and then 
+used those customer  funds to make undisclosed venture investments, lavish real estate purchases, 
+and large  political donations.   
+3. Bankman -Fried  hid all of this from FTX’s equity investors, including U.S. 
+investors, from whom he sought to raise billions of dollars in additional funds .  He repeatedly  
+cast FTX as an innovative and conservative trailblazer in the crypto markets.  He told  investors 
+and prospective investors that FTX had top-notch, sophisticated automated risk measures in place to protect customer assets,  that those assets were safe and secure,  and that Alameda was 
+just another platform  customer with no special privileges.  These statements were false and 
+misleading.  In truth, Bankman -Fried had  exempted Alameda from the risk mitigation measures 
+and had provided Alameda with significant special treatment on the FTX platform, including a 
+virtually unlimited “line of credit” f unded by the platform’s customers.   
+4. While he spent lavishly on office space and condominiums in The Bahamas, and 
+sank billions of dollars of customer funds into speculative venture investments, Bankman- Fried’s 
+house of cards began to crumble.  When prices  of crypto assets plummeted in May 2022, 
+Alameda’s lenders demanded repayment on billions of dollars of loans.  Despite the fact that Alameda had, by this point, already taken  billions of dollars of FTX customer assets, it was 
+unable to satisfy its loan obligations.  Bankman-Fried directed FTX to divert billions more in 
+customer assets to Alameda to ensure that Alameda maintained its lending relationships, and that 
+money could continue to flow in from lenders and other investors.   Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 2 of 283 5. But Bankman- Fried  did not stop there.  Even as it was increasingly clear that 
+Alameda and FTX could not make customers whole, Bankman-Fried continued to 
+misappropriate FTX customer funds.  Through the summer of 2022, he directed hundreds of 
+millions more in FTX customer fu nds to Alameda, which he then used for additional venture 
+investments and for “loans” to himself and other FTX executives.  All the while, he continued to 
+make misleading statements to investors about FTX’s financial condition and risk management.  
+Even in November 2022, faced with billions of dollars in customer withdrawal demands that FTX  could not fulfill, Bankman- Fried misled investors from whom he needed money to plug a 
+multi- billion -dollar hole.  His  brazen , multi- year scheme finally came to an end when FTX, 
+Alameda, and their tangled web of affiliated entities filed for bankruptcy on November 11, 2022. 
+VIOLATIONS  
+6. By engaging in the conduct set forth in this Complaint, Defendant ha s violated  
+Section 17(a) of the Securities Act  of 1933 (“Securities Act”) [15 U.S.C. § 77q(a)] ; and Section 
+10(b) of the Securities Exchange Act of 1934 (“Exchange Act”) [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5].  
+7. Unless Defendant is  permanently restrained and enjoined, he will continue to 
+engage in the acts, practices, transactions and courses of business set forth in this Complaint and 
+in acts, practices, transactions and courses of business of similar type and object. 
+NATURE OF THE PROCEEDING AND RELIEF SOUGHT  
+8. The Commis sion brings this action pursuant to the authority conferred upon it by 
+Section 20(b) of the Securities Act [15 U.S.C. § 77t(b)] and Section 21(d) (1) of the Exchange 
+Act [15 U.S.C. §§ 78u(d)(1)].  
+9. The Commission seeks a final judgment:  (i) permanently enjo ining Defendant Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 3 of 284 from engaging in the acts, practices, transactions and courses of business alleged herein; 
+(ii) ordering Defendant  to disgorge his ill-gotten gains and to pay prejudgment interest thereon 
+pursuant to Section 21(d)(5) and (7) of the Exchange Act [15 U.S.C. §§ 78u(d)(5) and (7)] ; (iii) 
+imposing civil money penalties on Defendant pursuant to Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the Exchange Act [15 U.S.C. § 78u(d)(3)]; (iv) imposing an officer and director bar pursuant to Section 20(e) of the Securities Act [15 U.S.C. § 77t(e )] and Section 21(d)(2) of the Exchange Act [15 U.S.C. § 78u(d)(2)]; (v) 
+prohibiting Defendant from participating in the offer or sale of securities including crypto asset securities  pursuant to Section 21(d)(5) of the Exchange Act [15 U.S.C. § 78u(d)(5)] ; and 
+(vi) ordering such other and further relief the Court may find appropriate pursuant to Section 21(d)(5) of the Exchange Act [15 U.S.C. § 78u(d)(5)]. 
+JURISDICTION AND VENUE  
+10. This Court has jurisdiction over this action pursuant to Sections 20(b), 20(d) and 
+22 of the Securities Act [15 U.S.C. §§ 77t(b), 77t(d), and 77v], and Sections 21(d), 21(e), and 27 of the Exchange Act [15 U.S.C. §§ 78u(d), 78u(e), and 78aa].  In connection with the conduct alleged in this Complaint, Defendant, directly or indirectly, made use of the means or instruments of transportation or communication in, and the means or instrumentalities of, interstate commerce, or of the mails . 
+11. Venue is proper in the Southern District of New York pursuant to Section 22(a) of 
+the Securities Act [15 U.S.C. § 77v(a)], and Section 27 of the Exchange Act [15 U.S.C. § 78aa].  Among other acts, Defendant made false and misleading statements to investo rs residing in this 
+District. Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 4 of 285 DEFENDANT  
+12. Samuel Bankman- Fried  (“Bankman- Fried”) , age 30, was a co -founder and 
+majority owner of FTX and, prior to stepping down on November 11, 2022, its CEO .  He was  
+also a co -founder and majority owner of A lameda.  He resided in Hong Kong and T he Bahamas .   
+RELEVANT ENTITIES  
+13. FTX Trading Ltd . (d/b/a FTX.com) (“FTX”)  is an Antigua and Barbuda 
+limited corporation.  FTX’s principal place of business was in Hong Kong and The Bahamas.  
+FTX operated a global crypto asset  trading platform and began operations in or around May 
+2019.  FTX was available to customers in most countries, but was not permitted to provide services to customers in the United States and several other countries.   FTX was founded by 
+Bankman -Fried, Gary Wang (“Wang”), and Nishad Singh (“Singh”).  On or about November 11, 
+2022, FT X and certain of its affiliates  filed Chapter 11 bankruptcy petitions in the United States 
+Bankruptcy Court for the District of Delaware, Case No. 22-11068 (Bankr. Del.).    
+14. Alameda Research LLC (“Alameda”)  is a Delaware company that had  
+operations in the United States, Hong Kong, and The Bahamas.  Alameda was a quantitative 
+trading f irm specializing in crypto assets (a “crypto hedge fund”).  Bankman- Fried and Wang co -
+founded Alameda in or around October 2017, and , prior to Alameda’s bankruptcy filing, had 
+been its sole equity owners, with Bankm an-Fried owning 90%, and Wang owning 10%, of the 
+company.  Bankman -Fried was CEO of Alameda from its inception until in or around October 
+2021, at which time Caroline Ellison  (“El lison”) and Sam Trabucco (“Trabu cco”) became co -
+CEOs.  In or around August 2022, Ellison became the sole CEO.  Alameda has filed for Chapter 11 bankruptcy in the United States Bankruptcy Court for the District of Delaware, Case No. 22 -
+11068 (Bankr. Del.). Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 5 of 286 FACTS  
+A. Bankman-Fried Created a Complex Web of Entities, with FTX and Alameda 
+at Its Center.  
+15. In or around October 2017, Bankman-Fried and Wang founded Alameda, a 
+quantitative trading firm specializing in crypto assets.1  
+16. At inception, Alameda was focused on arbitrage trading strategies, but went on to 
+employ other strategies including market making , yield farming  (pooling of crypto assets in 
+exchange for interest or other rewards ), and volatility tra ding.  Alameda also offered over -the-
+counter trading services, and made and managed other debt and equity investments. 
+17. At first, Bankman-Fried was responsible for trading operations, and Wang 
+handled the engineering and programming functions.  Over time, A lameda hired additional 
+employees, including Singh (in or around December 2017), Ellison (in or around March 2018), 
+and Trabucco (in or around 2019).  By the end of 2021, Alameda had approximately 30 employees.  At times,  Alameda shared office space and em ployees with FTX.  
+18. Bankman -Fried remained the ultimate decision -maker at Alameda, even after 
+Ellison and Trabucco became co -CEOs in or around October 2021.  Bankman -Fried  directed 
+investment and operational decisions, frequently communicated with Alameda employees, and had full access to Alameda’s records and databases.  
+19. In or around 2018, Bankman- Fried began work on building a crypto  asset  trading 
+platform.  Together with Wang and Singh, Bankman- Fried ultimately  founded FTX , which 
+began operations in or around May 2019.   
+                                                 
+1 Crypto assets are unique digital assets maintained on a cryptographically -secured blockchain.  A blockchain or 
+distributed ledger is a peer -to-peer database spread across a network of computers that records all transactions in 
+theoretically unchangeable, digitally recorded data packages. The system relies on cryptographic techniques for 
+secure recording of transactions.  Crypto  tokens may be traded on crypto asset  trading platforms in exchange for 
+other crypto  assets or fiat currency (legal tender issued by a country).  Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 6 of 287 20. FTX offered its customers a number of services.  For example:  
+a. FTX offered a “spot market,” a trading platform through which customers could trade crypto assets with other FTX customers in exchange for fiat currency ( i.e., currency such as U.S. Dollars) or other crypto assets.   
+b. FTX  offered  “spot margin trading” services, which allowed FTX  
+customers to trade using assets they did not have ( i.e., to trade “on 
+margin ”) by posting collateral in their FTX accounts and borrowing crypto 
+assets through the “spot market” on the FTX platform.  FTX also allowed customers to lend their crypto assets to other FTX customers who would then use those crypto assets to spot trade.   
+c. FTX offered an off-platform (over- the-counter or “ OTC ”) portal  that 
+enabled customers to connect and request quotes for spot crypto assets and to conduct trades. 
+21. Bankman -Fried was the ultimate decision -maker at FTX  from the platform’s 
+inception in or around May 2019 until he resigned as CEO on or about November 11, 2022 (“the Relevant Period”) .   
+22. In or around January 2020, Bankman-Fried, Wang, and Singh founded FTX US, a 
+crypto asset trading platform designed primarily for customers in the United States.
+2 
+23. Over time, Bankman -Fried expanded his holdings to include a number of 
+companies focused on making and managing private (or “venture”) investments.  
+24. This interconnected web of companies grew to include over 100 separate entities, 
+with Bankman- Fried  at the top and Alameda, his crypto hedge fund, at the center. 
+                                                 
+2 FTX US  is the d/b/a for a subsidiary of West Realm Shires Inc.,  a separate legal entit y from FTX Trading Ltd. that 
+provided different services .  FTX US’s conduct  is not the subject of the allegations in this  complaint.    Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 7 of 288 25. Throughout the Relevant Period, in multiple public statements, Bankman -Fried 
+held himself out as a visionary leader in the crypto industry, and touted his efforts to create a 
+regulated and thri ving crypto asset market.  He conducted an intensive public relations campaign 
+to brand himself and his companies  as honest stewards of crypto. 
+26. The reality was very different:  From the start, contrary to what FTX investors 
+and trading customers were told, Bankman -Fried continually diverted FTX customer funds to 
+Alameda and then used those funds to continue to grow his empire, using billions of dollars to 
+make undisclosed private venture investments, political contributions, and real estate purchases. 
+27. At th e same time, throughout the Relevant Period, Bankman -Fried solicited equity 
+investors by touting FTX’s controls and risk management, ultimately raising at least $1.8 billion dollars from investors in exchange for various classes of stock in FTX through multiple fundraising rounds, including raising :  (1) approximately $8 million from the sale of shares of 
+FTX Series A preferred stock, with fundraising completed in or around August 2019; 
+(2) approximately $1 billion from the sale of shares of FTX Series B  preferred stock, with 
+fundraising completed in or around July 2021; (3) approximately $420 million from the sale of  
+shares of  FTX Series B -1 stock, with fundraising completed in or around October 2021; and (4) 
+approximately $500 million from the sale of shares of FTX  Series C stock, with fundraising 
+completed in or around January 2022.  Of this total, approximately  $1.1 billion was invested  in 
+FTX  by approximately  90 investors based in the United States. 
+28. For the entire span of the Relevant Period, while raising money from equity 
+investors, B ankman -Fried , and those speaking at his direction and on his behalf, claimed in 
+widely distributed public forums and directly to investors that :  FTX was a safe crypto asset 
+trading platform; FTX had a comparative advantage due to its automated risk mitigation Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 8 of 289 procedures; and FTX and its customers were protected from other customers’ losses due to 
+FTX’s automated liquidation process.  As discussed further herein, these statements and others 
+were misleading in light o f Bankman -Fried’s  failure to disclose to FTX investors  the diversion of 
+FTX customer funds to Alameda, which he then used for his own purposes, including loans to himself.  Similarly, Bankman -Fried’s statements concerning the separation of FTX and Alameda,  
+made throughout the Relevant Period, were misleading because he did not disclose the special treatment afforded to Alameda on FTX, including its virtually  unlimited “line of credit” at FTX, 
+its ability to carry a  negative balance in its FTX customer accou nt, and its exemption from 
+FTX’s automated liquidation process —none of which any other customer of the platform 
+enjoyed, but which changed the risk profile of  FTX . 
+29. Bankman -Fried also misrepresented the risk profile of investing in FTX 
+throughout the Releva nt Period by failing to disclose FTX’s exposure to Alameda and, relatedly, 
+that the collateral Alameda deposited on FTX consisted largely of illiquid, FTX -affiliated tokens , 
+including FTT.  In addition to these material omissions, Bankman- Fried  also made material 
+misrepresentations to FTX investors about FTX’s risk management and its relationship with Alameda.   As detailed below, Bankman- Fried made these material misstatements  throughout the 
+Relevant Period, and the entire time he was raising or attempting to raise funds for FTX— from 
+the time FTX began operations in May 2019 through its ultimate demise in November 2022.   
+B. Bankman- Fried
+  Used Alameda to Carry Out His Fraudulent Scheme.  
+30. Alameda (and its many subsidiaries) served a number of essential functions  in 
+Bankman -Fried’s growing web of companies. For example, Alameda was the primary market 
+maker on FTX at the time of FTX’s inception in 2019.  In this capacity, Alameda, at Bankman -
+Fried’s direction, was tasked with creating liquidity on FTX to allow the platform  to function 
+more efficiently.  Bankman -Fried also made venture investments through an Alameda Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 9 of 2810 subsidiary.  Most c rucially, Bankman -Fried used Alameda to house FTX customer assets and to 
+deploy those assets, under Bankman-Fried’s direction, to help grow his empire.  
+31. From the inception of FTX, Bankman-Fried diverted FTX customer funds to 
+Alameda, and he continued to do so until FTX’s collapse in November 2022. 
+32. Bankman -Fried diverted FTX customer funds to Alameda in essentially two 
+ways:  (1) by direct ing FTX customers to deposit fiat currency ( e.g., U.S. Dollars) into bank 
+accounts controlled by Alameda; and (2) by enabling Alameda to draw down from a virtually 
+limitless “line of credit” at FTX, which was funded by FTX customer assets.   
+33. As a result, there was no meaningful distinction between FTX customer funds and 
+Alameda’s own funds.  Bankman- Fried thus gave Alameda carte blanche  to use FTX customer 
+assets  for its own trading operations and for whatever other purposes Bankman- Fried saw fit.  In 
+essence, Bankman -Fried placed billions of dollars of FTX customer funds into Alameda.  He 
+then used Alameda as his personal piggy bank to buy luxury condominiums, support political 
+campaigns, and make private investments, among other uses.  None of this was di sclosed to FTX 
+equity investors or to the platform’s trading customers. 
+i. FTX Customers Deposited Billions of Dollars into Alameda -Owned 
+Bank Accounts, Which Alameda Spent on Its Own Trading Operations  
+and to  Expand Bankman- Fried’s Empire.  
+34. From the start of FTX’s operations in or around May 2019 until at least 2021, 
+FTX  customers deposited fiat currency ( e.g., U.S. Dollars) into bank accounts controlled by 
+Alameda.  Billions of dollars of FTX customer funds were so deposited into Alameda-controlled bank accounts. 
+35. At least some of these bank accounts were not in Alameda’s name, but rather in 
+the name of North Dimension Inc. (“North Dimension”), an Alameda subsidiary.  North Dimension’s website does not disclose any connection to Alameda.  Bankman- Fried directed Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 10 of 2811 FTX to have customers send  funds to North Dimension in an effort to hide the fact that the funds 
+were being sent to an account controlled by Alameda. 
+36. Alameda did not segregate these customer funds, but instead commingled them 
+with its other assets, and used them indiscriminately to fund its trading operations and Bankman-
+Fried’s other ventures. 
+37. This multi- billion -dollar liability was reflected in an internal account in the FTX 
+database that was not tied to Alameda but was instead called “fiat@ftx.com.”  Characterizing the 
+amount of customer funds sent to Alameda as an internal FTX  account had the effect of 
+concealing Alameda’s liability in FTX’s internal systems.  
+38. In quarterly balance sheets that Alameda provided to its third -party  lenders, 
+Alameda tracked this liability as a “loan,” but did not specify that the “loan” was from FTX.  Instead, Alameda combined this liability with loans it had received from third -party lenders. 
+39. Alameda was not required to pay interest on the liability r eflected in the 
+“fiat@ftx.com” account.  
+40. In 2022, FTX began trying to separate Alameda’s portion of the liability in the 
+“fiat@ftx.com” account from the portion that was attributable to FTX ( i.e., to separate out 
+customer deposits sent to Alameda-controlled bank accounts from deposits sent to FTX-controlled bank accounts).  Alameda’s portion—which amounted to more than $8 billion in FTX customer assets that had been deposited into Alameda-controlled bank accounts—was initially moved to a different  account i n the FTX database.  However, because this change caused FTX’s 
+internal systems to automatically charge Alameda interest on the more than $8 billion liability, Bankman -Fried directed that the Alameda liability be moved to an account that would not be 
+charg ed interest.  This account was associated with an individual that had no apparent connection Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 11 of 2812 to Alameda.  As a result, this change had the effect of further concealing Alameda’s liability in 
+FTX’s internal systems.  
+ii. The FTX Platform, By Design, Granted Spec ial Treatment to Alameda, 
+Including Features that Allowed Alameda to Divert FTX Customer 
+Assets.  
+41. In addition to receiving cash deposits directly from FTX customers, Alameda 
+benefited from undisclosed features of the FTX platform, which allowed it to divert FTX 
+customer assets.  For example:  
+a. Negative Balance :  Alameda was able to maintain a negative balance in its 
+customer account at FTX.  Bankman -Fried directed software code to be written in 
+or around August 2019, and updated in or around May 2020, that ultimately 
+allowed Alameda to maintain a negative balance in its account , untethered from 
+any collateral requirements .  No other customer account at FTX was permitted to  
+maintain a negative balance.   
+b. Line of Credit : On multiple occasions, Bankman-Fried di rected FTX to increase 
+the amount by which Alameda could maintain a negative balance in its account.  
+In effect, this gave an unofficial “line of credit” to Alameda, since Alameda was 
+able to draw down on its FTX customer account and use those funds—which were actually  the funds deposited by other FTX customers —for its own trading.  
+At Bankman -Fried’s direction, Alameda’s “line of credit” was continually raised 
+to the point where it grew to tens of billions of dollars and effectively became limitless .  No other FTX customer had a similar “line of credit.”  
+c. Liquidation Exemption : In or around May 2020, Bankman- Fried directed that 
+Alameda be exempted from the “auto -liquidation” feature of FTX’s spot margin 
+trading services.  As a result , Alameda’s collateral co uld fall below the requisite Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 12 of 2813 margin levels without triggering the automatic liquidation of its account.  
+Alameda was the only customer exempted from FTX’s automatic account liquidation.   
+42. All of these special privileges were afforded to Alameda—and only Alameda—at 
+Bankman -Fried’s direction, and all were hidden from investors.  These privileges permitted 
+Alameda to draw on FTX customer assets to a virtually unlimited extent for its own uses.  
+Because its own FTX trading account was able to maintain a negative balance of billions of dollars, unbacked by sufficient collateral, Alameda was able to divert billions of dollars in FTX customer assets.  Alameda did just that in 2022. 
+iii. In 2022, Alameda Diverted Billions More in FTX Customer Assets. 
+43. Starting in or around 2021, Bankman-Fried directed Alameda to borrow billions 
+of dollars from third -party crypto asset lending firms in order to fund Bankman-Fried’s venture 
+investments  and for his personal use.  Certain of these loans included provisions permitting the 
+lenders to demand re -payment at any time.  
+44. In or around May 2022, as prices of crypto assets were dropping precipitously, 
+several of these lenders demanded re-payment from Alameda.  Because Alameda did not have 
+sufficient assets to cover all of these obligations, Bankman-Fried directed Alameda to draw on its “line of credit” from FTX.  Billions of dollars of FTX customer funds were thus diverted to Alameda and used by Alameda to re -pay its third -party loan obligations. 
+45. Because Alameda now had billions of dolla rs more in liability to FTX ( on top of 
+the billions of dollars reflected in the fiat@ftx.com account)  Bankman -Fried —concerned that 
+this enormous liability would alarm Alameda’s lenders —directed Alameda to hide this “line of 
+credit” in Alameda’s balance sheet. 
+46. Despite the fact that Alameda now owed FTX billions of dollars with no Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 13 of 2814 immediate prospects of raising capital to pay off its “line of credit,” Bankman -Fried continued to 
+direct Alameda to draw on the “line of credit” in the summer of 2022.  The custome r funds 
+diverted to Alameda were used , among other things, to pay hundreds of millions of dollars in 
+“loans” to Bankman -Fried and other FTX executives, as well as hundreds of millions more to 
+fund additional venture investments. 
+iv. Bankman- Fried Assured Investors that FTX Customer Assets Were 
+Secure, and Hid Alameda’s Close Relationship with FTX.  
+47. Throughout the Relevant Period, Bankman -Fried was directly involved in 
+soliciting potential investors in FTX.  Bankman -Fried met, and othe rwise communicated, with 
+FTX investors including investors based in the United States.  Along with another FTX 
+employee, Bankman -Fried was the point-person for investor relations at FTX. 
+48. FTX’s Terms of Service, which were publicly available on FTX’s websit e and 
+accessible to investors,  assured FTX customers that their assets were secure, providing :  “you 
+control the Digital Assets held  in your Account ;” “[t]itle to your Digital Assets shall at all times 
+remain with you and shall not transfer to FTX ;” and “n one of the digital assets in your account 
+are the property of, or shall or may be loaned to, FTX Trading.”  The  Terms of Service further 
+provided:  “Once we receive fiat currency  we may issue you an equivalent amount of electronic 
+money (“E- Money”) …which represents the fiat currency that you have loaded” and “[y]ou may 
+redeem all or part of any E -Money held in your Account at any time.”   
+49. Similarly, FTX posted on its website a document entitled, “FTX’s Key Principles 
+for Ensuring Investor Protections on Dig ital-Asset Platforms,” in which FTX represented that it 
+“segregates customer assets from its own assets across our platforms.”  FTX further represented 
+in that document that it maintained “liquid asse ts for customer withdrawals…[to] ensure a 
+customer without losses can redeem its assets from the platform on demand.”    Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 14 of 2815 50. In addition to making this document available to the public on its website, FTX 
+specifically provided it to potential investors, including a U.S. investor who had invested $35 
+million in FTX’s Series B fundraising round in July 2021.  As described above, the se statements 
+to the public, customers, and investors were false—FTX did not segregate its customer assets 
+from its own assets, and, as events would later demonstrate, did not maintain liquidity to allow customer withdrawals on demand. 
+51. FTX investors were provided with FTX’s audited financial statements, and FTX 
+represented in its purchase agreements that those financial statements “fairly present in all material respects the financial co ndition and operating results of” FTX.  These audited financial 
+statements, which do not include information about Alameda’s undocumented “line of credit” 
+from FTX  and other information discussed herein, were, at the very least, materially misleading.  
+Indeed, FTX’s current CEO has voiced “substantial concern as to the information presented in 
+these audited financial statements.”  
+52. Throughout the Relevant Period, Bankman -Fried made public statements assuring 
+that customer assets were safe at FTX.  For exampl e, he stated in a tweet on or about June 27, 
+2022:  “Backstopping customer assets should always be primary.  Everything else is secondary.”  He likewise tweeted on or about August 9, 2021:  “As always, our users’ funds and safety comes first.  We will alwa ys allow withdrawals (except in cases of suspected money 
+laundering/theft/etc.). ” 
+53. Bankman -Fried also told investors, and directed other FTX and Alameda 
+employees to tell investors, that Alameda received no preferential treatment from FTX.  For example, Bankman -Fried told the Wall Street Journal in or around July 2022:  “There are no 
+parties that have privileged access.”  Likewise, in a Bloomberg article published in or about Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 15 of 2816 September 2022, Bankman- Fried claimed that “Alameda is a wholly separate entity” than FTX. 
+In the same article, Ellison is quoted as stating about Alameda:  “We’re at arm’s length and don’t 
+get any different treatment from other market makers.”   Bankman -Fried made similar statements 
+directly to investors. 
+54. Bankman -Fried knew or recklessly disregarded that these statements were false 
+and misleading because he was directly involved in establishing Alameda’s  preferential 
+treatment . 
+C. FTX Had Poor Controls and Deeply Inadequate Risk Management 
+Procedures, in Stark Contrast to Bankman- Fried’s Claims that I t Was a 
+Mature, Conservative Company. 
+55.  From its inception, FTX had poor controls and fundamentally deficient risk 
+management procedures.  Assets and liabilities of all forms were generally treated as 
+interchangeable, and there were insufficient distinctions between the assignment of debts and credits to Alameda, FTX, and  executives , including Bankman -Fried, Wang, and Singh.  This 
+reality was a sharp contrast to the image of FTX that Bankman -Fried consistently portrayed to 
+the public and to investors—a mature company that managed funds and risk in a conservative, rigorous manner.  
+56. FTX invested significant resources to develop and promote its brand as a 
+trustworthy company.  For example, i n materials provided to one investor in or around June 
+2022, FTX cultivated and promoted its reputation: 
+FTX has an industry- leading brand , endorsed by some of the most 
+trustworthy public figures, including Tom Brady, MLB, Gisele 
+Bundchen, Steph Curry, and the Miami Heat, and backed by an industry-leading set of investors.  FTX has the cleanest brand in crypto.    
+57. FTX also promoted itself as  a company that was willing to work collaboratively 
+with regulators and lawmakers.  In the same materials, FTX claimed:  “FTX is also the only Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 16 of 2817 major digital asset venue to maintain positive, constructive relationships with regulators and 
+lawmakers.”   
+i. The FTX Automated Risk Engine  
+58. Bankman -Fried repeatedly touted FTX ’s automated risk mitigation protocols —
+which he called FTX’s  “risk engine”—to the public, and prospective investors, as a safe and 
+reliable way for crypto asset trading platforms to manage risk.  Bankman -Fried promoted the 
+concept of “24/7” automated risk monitoring as an innovative benefit of cryptocurrency markets, including at a hearing on or about December 8, 2021, to the U.S. House of Representatives Committee on Financial Services, where Ban kman-Fried concluded his remarks by stating: 
+And the last thing I will say is if you look at what precipitated 
+some of the 2008 financial crisis, you will see a number of bilateral, bespoke, non-reported transactions happening between financial  counterpart ies, which then got  repackaged and 
+releveraged again and again and again, such that no one knew how 
+much risk was i n that system until it all fell apart.  If you compare 
+that to what happened on FTX or other major cryptocurrencies in use today, there is co mplete transparency about the full open 
+interest.  There is complete transparency about the positions that 
+are held.  There is a robust, consistent risk framework applied.   
+ 59. In addition to generally promoting the benefits of automated risk engines, 
+Bankman- Fried repeatedly claimed that FTX’s own risk engine was especially sophisticated and 
+carefully calibrated.  In a submission to the Commodity Futures Trading Commission, FTX 
+touted its automated system, claiming that it calculated a customer’s margin leve l every 30 
+seconds; and that if the collateral on deposit fell below the required margin level, FTX’s automated system would sell the customer’s portfolio assets until the collateral on deposit exceeded the required margin level .   
+60. These statements were materially false and misleading because of a critical 
+omission:  Bankman-Fried did not reveal that the automatic risk engine did not apply to the Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 17 of 2818 accounts o f its most important customer —Alameda.  As discussed above, one of the special 
+benefits that Bankman -Fried afforded Alameda was that its collateral on deposit was allowed to 
+fall below FTX’s required margin level without FTX liquidating any part of Alameda’s portfolio.  
+61. Bankman -Fried thus misled FTX’s investors by representing that its risk engine 
+would protect FTX custome r funds and would limit FTX’s exposure to any single customer, 
+while failing to disclose that Bankman -Fried had personally directed that the engine not apply to 
+one of its largest customers.   
+62. As Bankman -Fried acknowledged in a network television interview  on or about 
+December 1, 2022:  “I wasn’t even trying, like, I wasn’t spending any time or effort trying to 
+manage risk on FTX.”  Bankman -Fried continued:  “What happened, happened—and, if I had 
+been spending an hour a day thinking about risk management on FTX, I don’t think that would have happened.”  
+ii. The Valuation of Alameda’s  Collateral 
+63. The collateral that Alameda  had on deposit, consisting largely of enormous 
+positions in illiquid crypto assets  issued by FTX and Bankman- Fried (including the “ FTT” token , 
+the native crypto asset of FTX ), compounded the undisclosed risk to FTX’s investors.  Bankman-
+Fried and FTX’s system valued this collateral at trading prices, but the collateral deposited by Alameda was not worth the value assigned to it.  Alameda and FTX collectively owned the majority of these tokens, and only a small portion of the FTX- affiliated tokens were in 
+circulation.  As such, the tokens were illiquid, and, as Bankman-Fried knew or was reckless in not knowing, if Al ameda or FTX tried to sell Alameda’s holdings, market prices for the tokens 
+would fall, thereby driving down the value of Alameda’s deposited collateral at FTX.  As a 
+result, even if FTX had liquidated Alameda’s portfolio, the sales of those thinly traded tokens would not have generated sufficient funds to cover the amount Alameda borrowed from FTX.   Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 18 of 2819 64. Bankman -Fried was well aware of the impact of Alameda’s posit ions on FTX’s 
+risk profile.  On or about October 12, 2022, for example, Bankman- Fried, in a series of tweets, 
+analyzed the manipulation of a digital asset on an unrelated crypto platform.  In explaining what 
+occurred, Bankman-Fried distinguished between an asset’s “current price” and its “fair price,” and recognized that “large positions – especially in illiquid tokens – can have a lot of impact.”  
+Bankman -Fried asserted that FTX ’s risk engine  required customers to “fully collateralize a 
+position” when the customer’s position is “large and illiquid enough.”  But Bankman -Fried 
+knew, or was reckless in not knowing, that by not mitigating for the impact of large and illiquid tokens posted as collateral by Alameda, FTX was engaging in precisely the same conduct, and  
+creating the same risk, that he was warning against.  Alameda was drawing dow n a virtually 
+unlimited line of credit from FTX, collateralized by a large illiquid position.  
+65. The reality of FTX’s exposure to the risk created by the valuation of Alameda’s 
+positions stood in stark contrast to Bankman- Fried’s  assertions about risk management at FTX in 
+his October 2022 Twitter analysis, in which he described FTX’s approach and claimed that constructing the rules for FTX’s risk engine in a manner that is “conservative, and handles apparent large moves gracefully ” is “probably the most important thi ng we do at FTX.”  
+Bankman -Fried further claimed, contrasting FTX to the failed endeavor:  “There are a bunch of 
+other risk engine protection and sanity checks, too, which would have caught something like this.” 
+66. Not only did Bankman- Fried fail to tell investors that he had exempted Alameda 
+from FTX’s risk engine, he also falsely told certain investors that FTX had no exposure to FTT 
+at all.  In late summer 2021, for example, Bankman-Fried told a potential U.S. investor i n FTX’s 
+series B fundraising round that FTX did not hold FTT and, consequently, the investor would not Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 19 of 2820 have any exposure to FTT.  The investor ultimately invested $30 million.  For the reasons 
+described above, Bankman-Fried knew or was reckless in not knowing that at the time that he 
+made those representations , they were false and misleading.  Specifically, Bankman -Fried knew 
+or was reckless in not knowing that any investment in FTX carried significant exposure to FTT, as the token was, among other things, posted as collateral for billions of dollars that FTX had 
+loaned to Alameda to engage in speculative investments.  
+iii. Loans to FTX Executives and Real Estate Purchases 
+67. The FTX funds transferred to Alameda were used not only for Alameda’s 
+proprietary trading, but also to fund loans to FTX executives, including Bankman- Fried himself,  
+and to fund personal real estate purchases.   Between March 2020 and September 2022, 
+Bankman -Fried executed promissory notes for loans from Alameda totaling more than $1.338 
+billion, including two instances in which Bankman- Fried was both the borrower in his individual 
+capacity and the lender in his capacity as CEO of Alameda.   
+68. Bankman -Fried also used commingled funds from Alameda to make large 
+political donations and to purchase tens of millions of dollars in Bahamian real estate for himself, his parents, and other FTX executives.  Singh and Wang also borrowed $554 million and $224.7 
+million, respectively, by executing promissory notes with Alameda in 2021 and 2022. 
+69. The loans to Bankman-Fried and other individuals were poorly documented, and 
+at times not documented at all.  Similarly, the record keeping regarding the purchase and 
+ownership of real estate was poorly organized and documented.  Neither the fact of the loans and 
+purchases, nor the poor documentation of significant company liabilities and expenditures, was disclosed to investors. Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 20 of 2821 D. Despite the Precarious Financial Position of FTX and Alameda, Bankman-
+Fried Continued to Use FTX Customer Assets in the Summer of 2022, 
+Including to Rescue Distressed Crypto Firms and to Further Mislead 
+Investors.  
+70. In May 2022, the crypto markets plummeted due to a significant loss in value of 
+certain crypto assets and networks and the collateral effects on the interrelated markets.  
+Bankman -Fried characterized FTX, and himself, as playing an important role in stabilizing the 
+industry.  Bankman-Fried entered into a series of transactions with other members of the 
+industry, providing credit to and taking over other failing firms.  On or about June 21, 2022, after giving  a $250 million line of revolving credit to BlockFi, a global crypto financial services 
+company , to provide the company with access to capital to ease liquidity concerns, Bankman-
+Fried tweeted:  “We take our duty seriously to protect the digital asset ecosystem and its 
+customers.”  
+71. At the same time that Bankman -Fried was p ositioning himself as a hero in the 
+industry, however, the plummeting value of crypto assets was impacting Alameda, and as a result impacting FTX.  A s discussed above, a s a result of the same m arket conditions  impacting 
+BlockFi’s liquidity, many of Alameda’s lenders demanded repayment of loans they had made to 
+Alameda.   Bankman -Fried directed Alameda to  draw down billions of dollars from its “line of 
+credit ” from FTX to repay some of its loans—money that came from FTX’s spot market funded 
+by FTX customers.    
+72. Thus, in the summer of 2022, Bankman-Fried knew, or was reckless in not 
+knowing, that FTX was in a precarious financial condition.  However, he continued to spend hundreds of millions of dollars to purchase and support other crypto companies, and allowed Alameda to use FTX customer funds to repay its debts.  In addition, Bankman-Fried and other FTX executi ves continued to withdraw customer funds in the form of the poorly documented and Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 21 of 2822 undisclosed “loans” described above.  Specifically, on or about July 22, 2022, Bankman- Fried  
+loaned himself $136 million.  When he made this loan, Bankman-Fried knew, or was reckless in 
+not knowing, of the significant financial risk it posed to both Alameda and FTX.  Collectively, Bankman -Fried’s actions in the summer  of 2022 further imperiled FTX’ s financial condition.   
+73. Despite FTX’s tenuous financial condition at this time, Bankman -Fried continued 
+to present a false and misleading positive account of the company to investors.  In a meeting with FTX U.S. investors in September 2022, for example,  an FTX presentation included the claim 
+that:  “Outside of BlockFi, we didn’t increase our exposure to crypto.”  This statement was false 
+and misleading:  the customer funds that FTX diverted to Alameda, including customer funds that Alameda used to repay its lenders, were collateralized in part by Alameda’s FTT holdings.  
+Bankman -Fried knew or was reckless in not knowing that, as a result, FTX’s exposure to crypto, 
+including its own FTT token, increased substantially as Alameda increased its borrowing, backed by FTT as collateral, in the second quarter of 2022.   
+74. In that same meeting with FTX investors, FTX also represented that certain 
+investments did not involve the assets of FTX or its customers.  Contrary to that representation, two $100 million investments made by FTX’s affiliated investment vehicle, FTX Ventures Ltd., were funded with FTX customer funds that had been diverted to Alameda.   
+E. Even as His Scheme Was Spiraling Out of Control, Bankman- Fried
+  
+Continued to Mislead Investors and the Public About FTX’s True Financial 
+Condition.  
+75. On or about November 2, 2022, CoinDesk, a crypto news website, published an 
+article stating that based on its review of an Alameda balance sheet it had obtained, Alameda held a large position in FTT and other FTX-associated tokens.   
+76. On or about November 6, 2022, the CEO of Binance, a crypto a sset trading 
+platform, announced that “[d]ue to recent revelations that have came [sic] to light,” Binance Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 22 of 2823 would liquidate its FTT holdings.  Binance held FTT then valued at more than $500 million, 
+which it had received from FTX as part of Bankman- Fried’s buyout of Binance’s equity in FTX 
+as an early round investor.   
+77. Binance’s  announcement caused many FTX customers to withdraw their funds 
+from FTX.  Bankman-Fried knew or w as reckless in not knowing that given Alameda’s large 
+FTT holdings, any further drop in the value of FTT threatened the solvency of FTX , given 
+Alameda’s multi- billion -dollar liability .  To prevent a collapse in  the market price of FTT  that 
+Binance’s sales might cause, Ellison tweeted an offer to buy Binance’s entire stake, for $22 per token (“@cz_binance if you’re looking to minimize the market impact on your FTT sales, Alameda will happily buy it all from you today at $22!”).    
+78. Attempting to maintain public and investor confidence in FTX, Bankman- Fried 
+tweeted on or about November 7, 2022:  “FTX is fine.  Assets are fine … FTX has enough to 
+cover all client holdings.  We don’t invest client assets (even in treasuries).  We have been processing all withdrawals, and will continue to be ….”  That tweet was false and misleading, and Bankman- Fried later deleted it.  Bankman -Fried knew that FTX , at his direction, allowed 
+Alameda to invest “client assets” and that Alameda had in fact done so, using FTX customer 
+funds to make investments  far riskier than “treasuries.”    
+79. The next day, November 8, 2022, FTX paused all customer withdrawals, and the 
+price of FTT plummeted by approximately 80%.  Alameda’s collateral on deposit was worth far less than the amount Alameda had borrowed from FTX.  FTX was left with billions of dollars in 
+effectively unrecoverable loans.     
+80. Facing a solvency crisis, Bankman -Fried searched for investors who could 
+provide additional funding.  On or about November 8, 2022, the CEO of Binance tweeted:  “ FTX Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 23 of 2824 asked for our help. There is a significant liquidity crunch. To protect users, we signed a non-
+binding LOI, intending to fully acquire http://FTX.com and help cover the liquidity crunch. We will be conducting a full DD [due diligence] in the coming days.”   
+81. It only took one day, however, for Binance to decide not to acquire FTX.  On or 
+about November 9, Binance announced:  “As a result of corporate due diligence, as well as the latest news reports regarding mishandled customer funds and alleged US agency investigations, we have decided that we will not pursue the potential acquisition of http://FTX.com.” 
+82. FTX customers withdrew approximately $5 billion from the platform  that day.   
+83. At the same time, Bankman -Fried sought emergen cy funding from other 
+investors, including U.S. investors, to cover a shortfall at FTX of approximately $8 billion.  As part of this effort, Bankman- Fried circulated a balance sheet to potential investors that listed a 
+negative $8 billion entry labeled as a “hidden, poorly internally labeled ‘fiat@ account.’”  This entry was a reference to the above- described fiat@ftx.com account and reflected FTX customer  
+funds deposited in Alameda’s bank accounts.   
+84. During a meeting with Alameda employees  on or about November 9, 2022, 
+Ellison admitted that she, Bankman-Fried, Wang, and Sing h were aware that FTX customer  
+funds had been used by Alameda.   
+85. On the morning of November 10, 2022, confronting the implosion of FTX and 
+Alameda, Bankman -Fried tweeted:  “1) I’ m sorry.  That’s the biggest thing. I f*cked up, and 
+should have done better.”
+3  In the same tweet thread, Bankman -Fried announced that Alameda 
+was “winding down trading” and soon would not trade on FTX at all.  Bankman- Fried 
+maintained that “FTX International currently has a total market value of assets/collateral higher 
+                                                 
+3 Expletives have been redacted in part with asterisks.   Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 24 of 2825 than client deposits (moves with prices!).”  And he stated, among other things, that he was trying 
+to “raise liquidity,” claiming “[t]here are a number of players who we are in talks with, LOIs [letters of intent], term sheets, etc.”   
+86. The next day, November 11, 2022, Bankman -Fried resigned from FTX.  Shortly 
+thereafter, FTX and approximately 100 affiliated entities, including FTX US, filed for Chapter 
+11 bankruptcy protection.   
+FIRST CLAIM FOR RELI EF 
+FRAUD IN THE OFFER OR SALE OF SECURITIES  
+(Violations of Section 17(a) of the Securities Act)  
+87. The Commission re- alleges and incorporates by reference the allegations 
+contained in paragraphs 1 through 86. 
+88. By reason of the conduct described above, Defendant , in connection with the offer 
+or sale of securities, by the use of the means or instrumentalities of interstate commerce or of the mails, directly or indirectly, acting knowingly, recklessly, or , as to (ii) and (iii),  negligently  
+(i) employed devices, schemes, or artifices to defraud; (ii) obtained money or property by means 
+of untrue statements of material facts and omissions to state material facts necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading; and (iii) engaged in acts, practices, or courses of business which operated or would 
+operate as a fraud or deceit upon any persons, including purchasers or sellers of the securities.   
+89. By reason of the conduct described above, Defendant  violated Securities Act 
+Sections 17(a) [15 U.S.C. § 77q(a) ]. Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 25 of 2826 SECOND CLAIM FOR REL IEF 
+FRAUD IN CONNECTION WITH THE PURCHASE OR SALE OF SECURITIES  
+ (Violations of Section 10(b) of the Exchange Act and Rule 10b-5 T hereunder)  
+90. The Commission re- alleges and incorporates by reference the allegations 
+contained in paragraphs 1 through 86. 
+91. By reason of the conduct described above, Defendant, directly or indirectly, in 
+connection with the purchase or sale of securities, by the use of the means or instrumentalities of 
+interstate commerce or of the mails, or of any facility of any national securities exchange, knowingly or recklessly, (i) employed devices, schemes, or artifices to defraud; (ii) made untrue statements of a material fact or omitted to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; and (iii) engaged in acts, practices, or courses of business which operated or would operate as a fraud or deceit upon any persons, including purchasers of the securities. 
+92. By reason of the conduct described above, Defendant violated Exchange Act 
+Section 10(b) [15 U.S.C. § 78j(b)] and Rule 10b-5 [17 C.F.R. § 240.10b-5] thereunder. 
+PRAYER FOR RELIEF  
+WHEREFORE, the Commission respectfully requests that this Court enter a Final 
+Judgment: 
+A. Permanently  restrain ing and enjoining Defendant, his officers, agents, servants, 
+employees and attorneys, and those persons in active concert or participation with th em who 
+receive actual notice of the injunction by personal service or  otherwise, and each of them, from 
+violating Section 17(a) of the Securities Act [15 U.S.C. § 77q(a)], and  Section 10(b) of the 
+Exchange Act [15 U.S.C. 78j(b)] and  Rule 10b-5 thereunder [17 C.F.R. 240.10b-5]; 
+B. Ordering Defendant  pay disgorgement plus prejudgment interest of all ill-gotten Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 26 of 2827 gains obtained by reason of the unlawful conduct alleged in this Complaint, pursuant to 
+Exchange Act Sections 21(d)(5) and 21(d)(7) [15 U.S.C. §§ 78u(d)(5) and 78u(d)(7)]; 
+C. Ordering Defendant  to pay civil monetary penalties pursuant to Section 20(d) of 
+the Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the Exchange Act [15 U.S.C. 
+§ 78u(d)(3)];  
+D. Ordering Defendant barred from acting  as an officer or director pursuant to 
+Section 20(e) of the Securities Act [15 U.S.C. § 77t(e )] and Section 21(d)(2) of the Exchange 
+Act [15 U.S.C. § 78u(d)(2)] ;  
+E. Prohibiting Bankman- Fried from participating, directly or indirectly, including, 
+but not limited to, through any entity controlled by him, in the issuance, purchase, offer, or sale of any securities, including crypto asset securities, provided, however, that such injunction shall not prevent Bankman-Fried from purchasing or selling securities, including crypto asset securities, for his own personal account; and  
+F. Granting such other and further relief as this Court may deem just and proper.  Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 27 of 2828 JURY DEMAND  
+The Commission demands trial by jury . 
+DATED:  New York, New York  
+December 13, 2022 
+       Respectfully submitted,  
+ 
+       _________________________________  
+Jorge G. Tenreiro  
+David L. Hirsch (not admitted in SDNY)   
+Ladan F. Stewart  
+Amy Harman Burkart  
+David J. D’Addio  
+SECURITIES AND EXCHANGE  
+  COMMISSION  
+      100 Pearl Street , Suite 20-100 
+New York, New York 10 004 
+(212) 336-0153 (Stewart) Email: StewartLa@sec.gov  
+ 
+Attorneys for the Plaintiff 
+ Case 1:22-cv-10501   Document 1   Filed 12/13/22   Page 28 of 28
